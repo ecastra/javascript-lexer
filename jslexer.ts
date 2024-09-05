@@ -1405,7 +1405,7 @@ function lex(source: string, onDiagnostic: (diagnostic: Diagnostic) => void, ann
         }
       }
     } else {
-      // ... (Previous code for handling other token types)
+     // Todo
     }
   }
 
