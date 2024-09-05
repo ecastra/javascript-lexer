@@ -1,4 +1,4 @@
-# Super fast javascylexer
+# Super fast JavaScript lexer
 
 
 Super fast JavaScript lexervand regec validatir. 
